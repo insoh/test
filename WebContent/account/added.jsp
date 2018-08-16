@@ -6,9 +6,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>웹앱</title>
+<title>Insert title here</title>
 </head>
 <body>
-	기본대문
+	<h2>회원가입처리결과</h2>
+	<p>
+		가입처리되었습니다.
+	</p>
 </body>
 </html>

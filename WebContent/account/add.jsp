@@ -6,9 +6,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>웹앱</title>
+<title>Web APP</title>
 </head>
 <body>
-	기본대문
+	<h2>회원가입</h2>
+	
 </body>
 </html>
